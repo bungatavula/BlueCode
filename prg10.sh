@@ -1,4 +1,5 @@
 #!/bin/bash
+#This is For Git
 echo "Compare two numbers"
 read -p "Enter the first number:" num1
 read -p "Enter second number:" num2
